@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Gamela';
+  src: url(../../fonts/Gumela\ Regular.otf);
+}
+
+* {
+  font-family: "Gamela";
+  padding: 0%;
+  margin: 0%;
+}
+
